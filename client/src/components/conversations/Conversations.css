@@ -1,0 +1,14 @@
+.conversations{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.conversations:hover{
+    background: #ddd;
+}
+.conversationName{
+    text-transform: capitalize;
+    font-weight: bold;
+}

@@ -1,0 +1,27 @@
+.message{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: flex-start;
+}
+
+
+.messageText{
+    padding: 10px;
+    border-radius: 20px;
+    background: #ddd;
+    color: black;
+    max-width: 300px;
+    
+}
+.messageBottom{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.message.own{
+    align-items: flex-end;
+}
+.message.own .messageText{
+    background: dodgerblue;
+    color: white;
+}

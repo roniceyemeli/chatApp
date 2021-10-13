@@ -1,0 +1,5 @@
+{
+    "db" : "mongodb+srv://Ronice:12369874@cluster0.oiunp.mongodb.net/chatApp?retryWrites=true&w=majority",
+
+    "secret" : "shhutttt"
+}

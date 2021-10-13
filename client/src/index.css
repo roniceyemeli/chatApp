@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.home{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 40%;
+  margin: 0 auto;
+}
+
+/* ----------- Login and Register styles --------- */
+@import url("./pages/login/Login.css");
