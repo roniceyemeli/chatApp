@@ -1,4 +1,5 @@
 /api/node_modules/
+/api/node_modules/default.json
 
 /socket/node_modules/
 
